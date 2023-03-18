@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="">
-<img src="https://i.gifer.com/Dfrz.gif">
-</div>
+
+<img src="https://tutorialspoint.com/images/html.gif">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Chauhan011&theme=algolia&show_icons=true"></img>
