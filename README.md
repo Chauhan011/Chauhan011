@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="https://tutorialspoint.com/images/html.gif">
+<img src="https://i.pinimg.com/originals/2d/44/8a/2d448ad092ab29dbc0eae95ef257c12b.gif">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chauhan011&theme=algolia&show_icons=true"></img>
