@@ -3,11 +3,10 @@
 **Chauhan011/Chauhan011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python Skills
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React js
 - 👯 I’m looking to jump into compititive programming.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with react js
 - 💬 Ask me about Python and tech related stuff.
 - 📫 How to reach me: vishalchouhan25537@gmail.com
 - 😄 Pronouns: hii/HII
